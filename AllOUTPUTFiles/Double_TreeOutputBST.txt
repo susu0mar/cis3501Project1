@@ -1,0 +1,167 @@
+Insert 1
+
+1
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 2
+
+1
+    2
+
+Tree Height: 2
+Comparisons/operations to insert 2: 3
+
+Insert 4
+
+1
+    2
+        4
+
+Tree Height: 3
+Comparisons/operations to insert 4: 4
+
+Insert 8
+
+1
+    2
+        4
+            8
+
+Tree Height: 4
+Comparisons/operations to insert 8: 5
+
+Insert 16
+
+1
+    2
+        4
+            8
+                16
+
+Tree Height: 5
+Comparisons/operations to insert 16: 6
+
+Insert 16
+
+1
+    2
+        4
+            8
+                16(2)
+
+Tree Height: 5
+Comparisons/operations to insert 16: 6
+
+Insert 8
+
+1
+    2
+        4
+            8(2)
+                16(2)
+
+Tree Height: 5
+Comparisons/operations to insert 8: 5
+
+Insert 4
+
+1
+    2
+        4(2)
+            8(2)
+                16(2)
+
+Tree Height: 5
+Comparisons/operations to insert 4: 4
+
+Insert 2
+
+1
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+
+Tree Height: 5
+Comparisons/operations to insert 2: 3
+
+Insert 1
+
+1(2)
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+
+Tree Height: 5
+Comparisons/operations to insert 1: 2
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Searching for 1
+
+1(2)
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+1 Found!
+Tree Height: 5
+Comparisons/operations to search 1: 1
+
+Searching for 2
+
+1(2)
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+2 Found!
+Tree Height: 5
+Comparisons/operations to search 2: 2
+
+Searching for 4
+
+1(2)
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+4 Found!
+Tree Height: 5
+Comparisons/operations to search 4: 3
+
+Searching for 8
+
+1(2)
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+8 Found!
+Tree Height: 5
+Comparisons/operations to search 8: 4
+
+Searching for 16
+
+1(2)
+    2(2)
+        4(2)
+            8(2)
+                16(2)
+16 Found!
+Tree Height: 5
+Comparisons/operations to search 16: 5
+
+Double Tree
+Operation/Comparison Count!
+
+Creation	40
+Search		15
+Insert		0
+Delete		0
+
+Total		55

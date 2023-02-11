@@ -1,0 +1,63 @@
+Empty File. Tree is empty
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 51
+
+Tree Height: 0
+Comparisons/operations to delete 51: 1
+
+Deleting 43
+
+Tree Height: 0
+Comparisons/operations to delete 43: 1
+
+Deleting 84
+
+Tree Height: 0
+Comparisons/operations to delete 84: 1
+
+Deleting 64
+
+Tree Height: 0
+Comparisons/operations to delete 64: 1
+
+Deleting 81
+
+Tree Height: 0
+Comparisons/operations to delete 81: 1
+
+Deleting 34
+
+Tree Height: 0
+Comparisons/operations to delete 34: 1
+
+Deleting 15
+
+Tree Height: 0
+Comparisons/operations to delete 15: 1
+
+Deleting 72
+
+Tree Height: 0
+Comparisons/operations to delete 72: 1
+
+Deleting 9
+
+Tree Height: 0
+Comparisons/operations to delete 9: 1
+
+Deleting 10
+
+Tree Height: 0
+Comparisons/operations to delete 10: 1
+
+Delete on Empty Tree
+Operation/Comparison Count!
+
+Creation	0
+Search		0
+Insert		0
+Delete		10
+
+Total		10

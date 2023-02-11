@@ -1,0 +1,173 @@
+Insert 7
+
+7
+
+Tree Height: 1
+Comparisons/operations to insert 7: 2
+
+Insert 6
+
+    6
+7
+
+Tree Height: 2
+Comparisons/operations to insert 6: 3
+
+Insert 5
+
+        5
+    6
+7
+
+Tree Height: 3
+Comparisons/operations to insert 5: 4
+
+Insert 4
+
+            4
+        5
+    6
+7
+
+Tree Height: 4
+Comparisons/operations to insert 4: 5
+
+Insert 3
+
+                3
+            4
+        5
+    6
+7
+
+Tree Height: 5
+Comparisons/operations to insert 3: 6
+
+Insert 2
+
+                    2
+                3
+            4
+        5
+    6
+7
+
+Tree Height: 6
+Comparisons/operations to insert 2: 7
+
+Insert 1
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+
+Tree Height: 7
+Comparisons/operations to insert 1: 8
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Searching for 7
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+7 Found!
+Tree Height: 7
+Comparisons/operations to search 7: 1
+
+Searching for 6
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+6 Found!
+Tree Height: 7
+Comparisons/operations to search 6: 2
+
+Searching for 5
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+5 Found!
+Tree Height: 7
+Comparisons/operations to search 5: 3
+
+Searching for 4
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+4 Found!
+Tree Height: 7
+Comparisons/operations to search 4: 4
+
+Searching for 3
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+3 Found!
+Tree Height: 7
+Comparisons/operations to search 3: 5
+
+Searching for 2
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+2 Found!
+Tree Height: 7
+Comparisons/operations to search 2: 6
+
+Searching for 1
+
+                        1
+                    2
+                3
+            4
+        5
+    6
+7
+1 Found!
+Tree Height: 7
+Comparisons/operations to search 1: 7
+
+Greatest to Least Skewed
+Operation/Comparison Count!
+
+Creation	35
+Search		28
+Insert		0
+Delete		0
+
+Total		63

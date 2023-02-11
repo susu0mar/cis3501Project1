@@ -1,0 +1,48 @@
+Empty File. Tree is empty
+
+NOW ONTO THE OPERATION FILE :)
+
+Searching for 1
+
+1 Not Found!
+Tree Height: 0
+Comparisons/operations to search 1: 1
+
+Deleting 1
+
+Tree Height: 0
+Comparisons/operations to delete 1: 1
+
+Inserting 1
+
+1
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Searching for 1
+
+1
+1 Found!
+Tree Height: 1
+Comparisons/operations to search 1: 1
+
+Deleting 1
+
+Tree Height: 0
+Comparisons/operations to delete 1: 2
+
+Searching for 1
+
+1 Not Found!
+Tree Height: 0
+Comparisons/operations to search 1: 1
+
+Empty Tree & Action
+Operation/Comparison Count!
+
+Creation	0
+Search		3
+Insert		2
+Delete		3
+
+Total		8

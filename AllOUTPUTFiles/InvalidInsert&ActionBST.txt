@@ -1,0 +1,17 @@
+NOW ONTO THE OPERATION FILE :)
+
+Invalid Action Code
+
+Invalid Action Code
+
+Invalid Action Code
+
+Invalid Insert & Data
+Operation/Comparison Count!
+
+Creation	0
+Search		0
+Insert		0
+Delete		0
+
+Total		0

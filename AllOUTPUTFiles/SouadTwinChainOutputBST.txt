@@ -1,0 +1,102 @@
+Insert 1
+
+1
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 1
+
+1(2)
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 1
+
+1(3)
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 1
+
+1(4)
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 1
+
+1(5)
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 1
+
+1(6)
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+Insert 1
+
+1(7)
+
+Tree Height: 1
+Comparisons/operations to insert 1: 2
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 1
+
+1(6)
+Tree Height: 1
+Comparisons/operations to delete 1: 2
+
+Deleting 1
+
+1(5)
+Tree Height: 1
+Comparisons/operations to delete 1: 2
+
+Deleting 1
+
+1(4)
+Tree Height: 1
+Comparisons/operations to delete 1: 2
+
+Deleting 1
+
+1(3)
+Tree Height: 1
+Comparisons/operations to delete 1: 2
+
+Deleting 1
+
+1(2)
+Tree Height: 1
+Comparisons/operations to delete 1: 2
+
+Deleting 1
+
+1
+Tree Height: 1
+Comparisons/operations to delete 1: 2
+
+Deleting 1
+
+Tree Height: 0
+Comparisons/operations to delete 1: 2
+
+Big Twin Chain
+Operation/Comparison Count!
+
+Creation	14
+Search		0
+Insert		0
+Delete		14
+
+Total		28

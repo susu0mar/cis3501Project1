@@ -1,0 +1,202 @@
+Insert 51
+51
+
+Tree Height: 1
+Comparisons/operations to insert 51: 2
+
+Insert 43
+    43
+51
+
+Tree Height: 2
+Comparisons/operations to insert 43: 3
+
+Insert 84
+    43
+51
+    84
+
+Tree Height: 2
+Comparisons/operations to insert 84: 3
+
+Insert 64
+    43
+51
+        64
+    84
+
+Tree Height: 3
+Comparisons/operations to insert 64: 4
+
+Insert 81
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 81: 5
+
+Insert 34
+        34
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 34: 4
+
+Insert 15
+            15
+        34
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 15: 5
+
+Insert 72
+            15
+        34
+    43
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 5
+Comparisons/operations to insert 72: 6
+
+Insert 9
+                9
+            15
+        34
+    43
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 5
+Comparisons/operations to insert 9: 6
+
+Insert 10
+                9
+                    10
+            15
+        34
+    43
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 6
+Comparisons/operations to insert 10: 7
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 51
+                9
+                    10
+            15
+        34
+    43
+64
+            72
+        81
+    84
+Tree Height: 6
+Comparisons/operations to delete 51: 4
+
+Deleting 43
+            9
+                10
+        15
+    34
+64
+            72
+        81
+    84
+Tree Height: 5
+Comparisons/operations to delete 43: 3
+
+Deleting 84
+            9
+                10
+        15
+    34
+64
+        72
+    81
+Tree Height: 5
+Comparisons/operations to delete 84: 3
+
+Deleting 64
+            9
+                10
+        15
+    34
+72
+    81
+Tree Height: 5
+Comparisons/operations to delete 64: 4
+
+Deleting 81
+            9
+                10
+        15
+    34
+72
+Tree Height: 5
+Comparisons/operations to delete 81: 3
+
+Deleting 34
+        9
+            10
+    15
+72
+Tree Height: 4
+Comparisons/operations to delete 34: 3
+
+Deleting 15
+    9
+        10
+72
+Tree Height: 3
+Comparisons/operations to delete 15: 3
+
+Deleting 72
+9
+    10
+Tree Height: 2
+Comparisons/operations to delete 72: 2
+
+Deleting 9
+10
+Tree Height: 1
+Comparisons/operations to delete 9: 2
+
+Deleting 10
+Tree Height: 0
+Comparisons/operations to delete 10: 2
+
+10 insert and delete
+Operation/Comparison Count!
+
+Creation	45
+Search		0
+Insert		0
+Delete		29
+
+Total		74

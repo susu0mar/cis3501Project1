@@ -1,0 +1,101 @@
+Insert 51
+51
+
+Tree Height: 1
+Comparisons/operations to insert 51: 1
+
+Insert 43
+    43
+51
+
+Tree Height: 2
+Comparisons/operations to insert 43: 2
+
+Insert 84
+    43
+51
+    84
+
+Tree Height: 2
+Comparisons/operations to insert 84: 2
+
+Insert 64
+    43
+51
+        64
+    84
+
+Tree Height: 3
+Comparisons/operations to insert 64: 3
+
+Insert 81
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 81: 4
+
+Insert 34
+        34
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 34: 3
+
+Insert 15
+            15
+        34
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 15: 4
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 51
+            15
+        34
+    43
+64
+        81
+    84
+Tree Height: 4
+Comparisons/operations to delete 51: 3
+
+Deleting 43
+        15
+    34
+64
+        81
+    84
+Tree Height: 3
+Comparisons/operations to delete 43: 2
+
+Deleting 84
+        15
+    34
+64
+    81
+Tree Height: 3
+Comparisons/operations to delete 84: 2
+
+Deleting 64
+        15
+    34
+81
+Tree Height: 3
+Comparisons/operations to delete 64: 2
+
+Deleting 81

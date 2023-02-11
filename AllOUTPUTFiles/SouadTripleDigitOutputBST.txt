@@ -1,0 +1,204 @@
+Insert 492
+
+492
+
+Tree Height: 1
+Comparisons/operations to insert 492: 2
+
+Insert 831
+
+492
+    831
+
+Tree Height: 2
+Comparisons/operations to insert 831: 3
+
+Insert 421
+
+    421
+492
+    831
+
+Tree Height: 2
+Comparisons/operations to insert 421: 3
+
+Insert 568
+
+    421
+492
+        568
+    831
+
+Tree Height: 3
+Comparisons/operations to insert 568: 4
+
+Insert 100
+
+        100
+    421
+492
+        568
+    831
+
+Tree Height: 3
+Comparisons/operations to insert 100: 4
+
+Insert 246
+
+        100
+            246
+    421
+492
+        568
+    831
+
+Tree Height: 4
+Comparisons/operations to insert 246: 5
+
+Insert 312
+
+        100
+            246
+                312
+    421
+492
+        568
+    831
+
+Tree Height: 5
+Comparisons/operations to insert 312: 6
+
+Insert 222
+
+        100
+                222
+            246
+                312
+    421
+492
+        568
+    831
+
+Tree Height: 5
+Comparisons/operations to insert 222: 6
+
+Insert 831
+
+        100
+                222
+            246
+                312
+    421
+492
+        568
+    831(2)
+
+Tree Height: 5
+Comparisons/operations to insert 831: 3
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 831
+
+        100
+                222
+            246
+                312
+    421
+492
+        568
+    831
+Tree Height: 5
+Comparisons/operations to delete 831: 3
+
+Searching for 504
+
+        100
+                222
+            246
+                312
+    421
+492
+        568
+    831
+504 Not Found!
+Tree Height: 5
+Comparisons/operations to search 504: 4
+
+Inserting 111
+
+        100
+                    111
+                222
+            246
+                312
+    421
+492
+        568
+    831
+Tree Height: 6
+Comparisons/operations to insert 111: 7
+
+Deleting 312
+
+        100
+                    111
+                222
+            246
+    421
+492
+        568
+    831
+Tree Height: 6
+Comparisons/operations to delete 312: 6
+
+Deleting 932
+
+        100
+                    111
+                222
+            246
+    421
+492
+        568
+    831
+Tree Height: 6
+Comparisons/operations to delete 932: 3
+
+Inserting 911
+
+        100
+                    111
+                222
+            246
+    421
+492
+        568
+    831
+        911
+Tree Height: 6
+Comparisons/operations to insert 911: 4
+
+Deleting 911
+
+        100
+                    111
+                222
+            246
+    421
+492
+        568
+    831
+Tree Height: 6
+Comparisons/operations to delete 911: 4
+
+Triple Digit
+Operation/Comparison Count!
+
+Creation	36
+Search		4
+Insert		11
+Delete		16
+
+Total		67

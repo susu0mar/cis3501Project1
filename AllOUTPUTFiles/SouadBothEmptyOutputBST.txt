@@ -1,0 +1,15 @@
+Empty File. Tree is empty
+
+NOW ONTO THE OPERATION FILE :)
+
+Empty Action File. No actions will be performed
+
+Input Action Empty
+Operation/Comparison Count!
+
+Creation	0
+Search		0
+Insert		0
+Delete		0
+
+Total		0

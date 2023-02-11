@@ -1,0 +1,258 @@
+Insert 10
+
+10
+
+Tree Height: 1
+Comparisons/operations to insert 10: 2
+
+Insert 1
+
+    1
+10
+
+Tree Height: 2
+Comparisons/operations to insert 1: 3
+
+Insert -3
+
+        -3
+    1
+10
+
+Tree Height: 3
+Comparisons/operations to insert -3: 4
+
+Insert 5
+
+        -3
+    1
+        5
+10
+
+Tree Height: 3
+Comparisons/operations to insert 5: 4
+
+Insert 12
+
+        -3
+    1
+        5
+10
+    12
+
+Tree Height: 3
+Comparisons/operations to insert 12: 3
+
+Insert 56
+
+        -3
+    1
+        5
+10
+    12
+        56
+
+Tree Height: 3
+Comparisons/operations to insert 56: 4
+
+Insert -28
+
+            -28
+        -3
+    1
+        5
+10
+    12
+        56
+
+Tree Height: 4
+Comparisons/operations to insert -28: 5
+
+Insert -57
+
+                -57
+            -28
+        -3
+    1
+        5
+10
+    12
+        56
+
+Tree Height: 5
+Comparisons/operations to insert -57: 6
+
+Insert 18
+
+                -57
+            -28
+        -3
+    1
+        5
+10
+    12
+            18
+        56
+
+Tree Height: 5
+Comparisons/operations to insert 18: 5
+
+Insert -18
+
+                -57
+            -28
+                -18
+        -3
+    1
+        5
+10
+    12
+            18
+        56
+
+Tree Height: 5
+Comparisons/operations to insert -18: 6
+
+Insert -12
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+    1
+        5
+10
+    12
+            18
+        56
+
+Tree Height: 6
+Comparisons/operations to insert -12: 7
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 12
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+    1
+        5
+10
+        18
+    56
+Tree Height: 6
+Comparisons/operations to delete 12: 3
+
+Inserting -1
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+            -1
+    1
+        5
+10
+        18
+    56
+Tree Height: 6
+Comparisons/operations to insert -1: 5
+
+Searching for -57
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+            -1
+    1
+        5
+10
+        18
+    56
+-57 Found!
+Tree Height: 6
+Comparisons/operations to search -57: 5
+
+Deleting 0
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+            -1
+    1
+        5
+10
+        18
+    56
+Tree Height: 6
+Comparisons/operations to delete 0: 5
+
+Searching for 23
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+            -1
+    1
+        5
+10
+        18
+    56
+23 Not Found!
+Tree Height: 6
+Comparisons/operations to search 23: 4
+
+Inserting 4
+
+                -57
+            -28
+                -18
+                    -12
+        -3
+            -1
+    1
+            4
+        5
+10
+        18
+    56
+Tree Height: 6
+Comparisons/operations to insert 4: 5
+
+Deleting -3
+
+                -57
+            -28
+                -18
+                    -12
+        -1
+    1
+            4
+        5
+10
+        18
+    56
+Tree Height: 6
+Comparisons/operations to delete -3: 5
+
+Mixed Positive Negative
+Operation/Comparison Count!
+
+Creation	49
+Search		9
+Insert		10
+Delete		13
+
+Total		81

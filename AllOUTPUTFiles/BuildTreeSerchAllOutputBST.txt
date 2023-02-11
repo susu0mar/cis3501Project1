@@ -1,0 +1,1359 @@
+Insert 51
+
+51
+
+Tree Height: 1
+Comparisons/operations to insert 51: 2
+
+Insert 43
+
+    43
+51
+
+Tree Height: 2
+Comparisons/operations to insert 43: 3
+
+Insert 84
+
+    43
+51
+    84
+
+Tree Height: 2
+Comparisons/operations to insert 84: 3
+
+Insert 64
+
+    43
+51
+        64
+    84
+
+Tree Height: 3
+Comparisons/operations to insert 64: 4
+
+Insert 81
+
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 81: 5
+
+Insert 34
+
+        34
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 34: 4
+
+Insert 15
+
+            15
+        34
+    43
+51
+        64
+            81
+    84
+
+Tree Height: 4
+Comparisons/operations to insert 15: 5
+
+Insert 72
+
+            15
+        34
+    43
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 5
+Comparisons/operations to insert 72: 6
+
+Insert 9
+
+                9
+            15
+        34
+    43
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 5
+Comparisons/operations to insert 9: 6
+
+Insert 43
+
+                9
+            15
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 5
+Comparisons/operations to insert 43: 3
+
+Insert 5
+
+                    5
+                9
+            15
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 6
+Comparisons/operations to insert 5: 7
+
+Insert 13
+
+                    5
+                9
+                    13
+            15
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 6
+Comparisons/operations to insert 13: 7
+
+Insert 19
+
+                    5
+                9
+                    13
+            15
+                19
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 6
+Comparisons/operations to insert 19: 6
+
+Insert 24
+
+                    5
+                9
+                    13
+            15
+                19
+                    24
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 6
+Comparisons/operations to insert 24: 7
+
+Insert 28
+
+                    5
+                9
+                    13
+            15
+                19
+                    24
+                        28
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 7
+Comparisons/operations to insert 28: 8
+
+Insert 24
+
+                    5
+                9
+                    13
+            15
+                19
+                    24(2)
+                        28
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 7
+Comparisons/operations to insert 24: 7
+
+Insert 16
+
+                    5
+                9
+                    13
+            15
+                    16
+                19
+                    24(2)
+                        28
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+
+Tree Height: 7
+Comparisons/operations to insert 16: 7
+
+Insert 98
+
+                    5
+                9
+                    13
+            15
+                    16
+                19
+                    24(2)
+                        28
+        34
+    43(2)
+51
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 98: 4
+
+Insert 57
+
+                    5
+                9
+                    13
+            15
+                    16
+                19
+                    24(2)
+                        28
+        34
+    43(2)
+51
+            57
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 57: 5
+
+Insert 32
+
+                    5
+                9
+                    13
+            15
+                    16
+                19
+                    24(2)
+                        28
+                            32
+        34
+    43(2)
+51
+            57
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 32: 9
+
+Insert 60
+
+                    5
+                9
+                    13
+            15
+                    16
+                19
+                    24(2)
+                        28
+                            32
+        34
+    43(2)
+51
+            57
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 60: 6
+
+Insert 18
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                            32
+        34
+    43(2)
+51
+            57
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 18: 8
+
+Insert 40
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                            32
+        34
+            40
+    43(2)
+51
+            57
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 40: 5
+
+Insert 29
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+51
+            57
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 9
+Comparisons/operations to insert 29: 10
+
+Insert 58
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 9
+Comparisons/operations to insert 58: 7
+
+Insert 45
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 9
+Comparisons/operations to insert 45: 4
+
+Insert 46
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+
+Tree Height: 9
+Comparisons/operations to insert 46: 5
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Searching for 51
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+51 Found!
+Tree Height: 9
+Comparisons/operations to search 51: 1
+
+Searching for 43
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+43 Found!
+Tree Height: 9
+Comparisons/operations to search 43: 2
+
+Searching for 84
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+84 Found!
+Tree Height: 9
+Comparisons/operations to search 84: 2
+
+Searching for 64
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+64 Found!
+Tree Height: 9
+Comparisons/operations to search 64: 3
+
+Searching for 81
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+81 Found!
+Tree Height: 9
+Comparisons/operations to search 81: 4
+
+Searching for 34
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+34 Found!
+Tree Height: 9
+Comparisons/operations to search 34: 3
+
+Searching for 15
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+15 Found!
+Tree Height: 9
+Comparisons/operations to search 15: 4
+
+Searching for 72
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+72 Found!
+Tree Height: 9
+Comparisons/operations to search 72: 5
+
+Searching for 9
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+9 Found!
+Tree Height: 9
+Comparisons/operations to search 9: 5
+
+Searching for 43
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+43 Found!
+Tree Height: 9
+Comparisons/operations to search 43: 2
+
+Searching for 5
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+5 Found!
+Tree Height: 9
+Comparisons/operations to search 5: 6
+
+Searching for 13
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+13 Found!
+Tree Height: 9
+Comparisons/operations to search 13: 6
+
+Searching for 19
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+19 Found!
+Tree Height: 9
+Comparisons/operations to search 19: 5
+
+Searching for 24
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+24 Found!
+Tree Height: 9
+Comparisons/operations to search 24: 6
+
+Searching for 28
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+28 Found!
+Tree Height: 9
+Comparisons/operations to search 28: 7
+
+Searching for 24
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+24 Found!
+Tree Height: 9
+Comparisons/operations to search 24: 6
+
+Searching for 16
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+16 Found!
+Tree Height: 9
+Comparisons/operations to search 16: 6
+
+Searching for 98
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+98 Found!
+Tree Height: 9
+Comparisons/operations to search 98: 3
+
+Searching for 57
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+57 Found!
+Tree Height: 9
+Comparisons/operations to search 57: 4
+
+Searching for 32
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+32 Found!
+Tree Height: 9
+Comparisons/operations to search 32: 8
+
+Searching for 60
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+60 Found!
+Tree Height: 9
+Comparisons/operations to search 60: 5
+
+Searching for 18
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+18 Found!
+Tree Height: 9
+Comparisons/operations to search 18: 7
+
+Searching for 40
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+40 Found!
+Tree Height: 9
+Comparisons/operations to search 40: 4
+
+Searching for 29
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+29 Found!
+Tree Height: 9
+Comparisons/operations to search 29: 9
+
+Searching for 58
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+58 Found!
+Tree Height: 9
+Comparisons/operations to search 58: 6
+
+Searching for 45
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+45 Found!
+Tree Height: 9
+Comparisons/operations to search 45: 3
+
+Searching for 46
+
+                    5
+                9
+                    13
+            15
+                    16
+                        18
+                19
+                    24(2)
+                        28
+                                29
+                            32
+        34
+            40
+    43(2)
+        45
+            46
+51
+            57
+                    58
+                60
+        64
+                72
+            81
+    84
+        98
+46 Found!
+Tree Height: 9
+Comparisons/operations to search 46: 4
+
+Build Tree Search All
+Operation/Comparison Count!
+
+Creation	153
+Search		126
+Insert		0
+Delete		0
+
+Total		279

@@ -1,0 +1,116 @@
+Insert 4
+
+4
+
+Tree Height: 1
+Comparisons/operations to insert 4: 2
+
+Insert 3
+
+    3
+4
+
+Tree Height: 2
+Comparisons/operations to insert 3: 3
+
+Insert 5
+
+    3
+4
+    5
+
+Tree Height: 2
+Comparisons/operations to insert 5: 3
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Deleting 51
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 51: 3
+
+Deleting 43
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 43: 3
+
+Deleting 84
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 84: 3
+
+Deleting 64
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 64: 3
+
+Deleting 81
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 81: 3
+
+Deleting 34
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 34: 3
+
+Deleting 15
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 15: 3
+
+Deleting 72
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 72: 3
+
+Deleting 9
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 9: 3
+
+Deleting 10
+
+    3
+4
+    5
+Tree Height: 2
+Comparisons/operations to delete 10: 3
+
+random test
+Operation/Comparison Count!
+
+Creation	8
+Search		0
+Insert		0
+Delete		30
+
+Total		38

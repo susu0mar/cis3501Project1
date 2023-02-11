@@ -1,0 +1,871 @@
+Insert 90
+
+90
+
+Tree Height: 1
+Comparisons/operations to insert 90: 2
+
+Insert 39
+
+    39
+90
+
+Tree Height: 2
+Comparisons/operations to insert 39: 3
+
+Insert 41
+
+    39
+        41
+90
+
+Tree Height: 3
+Comparisons/operations to insert 41: 4
+
+Insert 20
+
+        20
+    39
+        41
+90
+
+Tree Height: 3
+Comparisons/operations to insert 20: 4
+
+Insert 4
+
+            4
+        20
+    39
+        41
+90
+
+Tree Height: 4
+Comparisons/operations to insert 4: 5
+
+Insert 92
+
+            4
+        20
+    39
+        41
+90
+    92
+
+Tree Height: 4
+Comparisons/operations to insert 92: 3
+
+Insert 1
+
+                1
+            4
+        20
+    39
+        41
+90
+    92
+
+Tree Height: 5
+Comparisons/operations to insert 1: 6
+
+Insert 91
+
+                1
+            4
+        20
+    39
+        41
+90
+        91
+    92
+
+Tree Height: 5
+Comparisons/operations to insert 91: 4
+
+Insert 98
+
+                1
+            4
+        20
+    39
+        41
+90
+        91
+    92
+        98
+
+Tree Height: 5
+Comparisons/operations to insert 98: 4
+
+Insert 88
+
+                1
+            4
+        20
+    39
+        41
+            88
+90
+        91
+    92
+        98
+
+Tree Height: 5
+Comparisons/operations to insert 88: 5
+
+Insert 73
+
+                1
+            4
+        20
+    39
+        41
+                73
+            88
+90
+        91
+    92
+        98
+
+Tree Height: 5
+Comparisons/operations to insert 73: 6
+
+Insert 10
+
+                1
+            4
+                10
+        20
+    39
+        41
+                73
+            88
+90
+        91
+    92
+        98
+
+Tree Height: 5
+Comparisons/operations to insert 10: 6
+
+Insert 26
+
+                1
+            4
+                10
+        20
+            26
+    39
+        41
+                73
+            88
+90
+        91
+    92
+        98
+
+Tree Height: 5
+Comparisons/operations to insert 26: 5
+
+Insert 88
+
+                1
+            4
+                10
+        20
+            26
+    39
+        41
+                73
+            88(2)
+90
+        91
+    92
+        98
+
+Tree Height: 5
+Comparisons/operations to insert 88: 5
+
+Insert 69
+
+                1
+            4
+                10
+        20
+            26
+    39
+        41
+                    69
+                73
+            88(2)
+90
+        91
+    92
+        98
+
+Tree Height: 6
+Comparisons/operations to insert 69: 7
+
+Insert 3
+
+                1
+                    3
+            4
+                10
+        20
+            26
+    39
+        41
+                    69
+                73
+            88(2)
+90
+        91
+    92
+        98
+
+Tree Height: 6
+Comparisons/operations to insert 3: 7
+
+Insert 43
+
+                1
+                    3
+            4
+                10
+        20
+            26
+    39
+        41
+                        43
+                    69
+                73
+            88(2)
+90
+        91
+    92
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 43: 8
+
+Insert 90
+
+                1
+                    3
+            4
+                10
+        20
+            26
+    39
+        41
+                        43
+                    69
+                73
+            88(2)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 90: 2
+
+Insert 88
+
+                1
+                    3
+            4
+                10
+        20
+            26
+    39
+        41
+                        43
+                    69
+                73
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 88: 5
+
+Insert 82
+
+                1
+                    3
+            4
+                10
+        20
+            26
+    39
+        41
+                        43
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 82: 7
+
+Insert 6
+
+                1
+                    3
+            4
+                    6
+                10
+        20
+            26
+    39
+        41
+                        43
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 7
+Comparisons/operations to insert 6: 7
+
+Insert 49
+
+                1
+                    3
+            4
+                    6
+                10
+        20
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 49: 9
+
+Insert 20
+
+                1
+                    3
+            4
+                    6
+                10
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 20: 4
+
+Insert 10
+
+                1
+                    3
+            4
+                    6
+                10(2)
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 10: 6
+
+Insert 12
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+
+Tree Height: 8
+Comparisons/operations to insert 12: 7
+
+
+NOW ONTO THE OPERATION FILE :)
+
+Searching for 20
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+20 Found!
+Tree Height: 8
+Comparisons/operations to search 20: 3
+
+Searching for 88
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+88 Found!
+Tree Height: 8
+Comparisons/operations to search 88: 4
+
+Searching for 4
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+4 Found!
+Tree Height: 8
+Comparisons/operations to search 4: 4
+
+Searching for 41
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+41 Found!
+Tree Height: 8
+Comparisons/operations to search 41: 3
+
+Searching for 73
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+73 Found!
+Tree Height: 8
+Comparisons/operations to search 73: 5
+
+Searching for 41
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+41 Found!
+Tree Height: 8
+Comparisons/operations to search 41: 3
+
+Searching for 20
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+20 Found!
+Tree Height: 8
+Comparisons/operations to search 20: 3
+
+Searching for 1
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+1 Found!
+Tree Height: 8
+Comparisons/operations to search 1: 5
+
+Searching for 73
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+73 Found!
+Tree Height: 8
+Comparisons/operations to search 73: 5
+
+Searching for 88
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+88 Found!
+Tree Height: 8
+Comparisons/operations to search 88: 4
+
+Searching for 6
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+6 Found!
+Tree Height: 8
+Comparisons/operations to search 6: 6
+
+Searching for 41
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+41 Found!
+Tree Height: 8
+Comparisons/operations to search 41: 3
+
+Searching for 91
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+91 Found!
+Tree Height: 8
+Comparisons/operations to search 91: 3
+
+Searching for 43
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+43 Found!
+Tree Height: 8
+Comparisons/operations to search 43: 7
+
+Searching for 20
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+20 Found!
+Tree Height: 8
+Comparisons/operations to search 20: 3
+
+Searching for 41
+
+                1
+                    3
+            4
+                    6
+                10(2)
+                    12
+        20(2)
+            26
+    39
+        41
+                        43
+                            49
+                    69
+                73
+                    82
+            88(3)
+90(2)
+        91
+    92
+        98
+41 Found!
+Tree Height: 8
+Comparisons/operations to search 41: 3
+
+80-20Insert Action
+Operation/Comparison Count!
+
+Creation	131
+Search		64
+Insert		0
+Delete		0
+
+Total		195
